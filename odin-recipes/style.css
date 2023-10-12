@@ -14,3 +14,15 @@ ul, p {
 .landing-page {
 	background-color: cornflowerblue;
 }
+
+.asian-rockfish {
+	background-color: rgb(149, 255, 0);
+}
+
+.fried-egg {
+	background-color: rgb(255, 17, 0);
+}
+
+ol {
+	font-size: 18px;
+}
