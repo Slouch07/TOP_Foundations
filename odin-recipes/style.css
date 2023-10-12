@@ -1,5 +1,5 @@
-h1 {
-	font-family: fantasy;
+h1, h2, h3 {
+	font-family: fantasy, monospace;
 	font-weight: bold;
 }
 
