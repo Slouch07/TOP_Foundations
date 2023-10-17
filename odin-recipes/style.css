@@ -26,3 +26,19 @@ ul, p {
 ol {
 	font-size: 18px;
 }
+
+.landing-title {
+	width: 50%;
+	margin: auto;
+	padding: 8px;
+	text-align: center;
+}
+
+.recipe-list {
+	margin-left: 40px;
+}
+
+.recipe-title {
+	padding: 5px;
+
+}
